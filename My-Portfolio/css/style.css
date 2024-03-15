@@ -319,6 +319,7 @@ div.link-wrapper:hover, a#nav-link:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  
 }
 
 #contact .mail-contact .nameAndMail input,
@@ -329,6 +330,7 @@ textarea {
   border: none;
   margin: 10px;
   background-color: var(--secondary-color);
+  color: white;
 }
 
 #contact .mail-contact .nameAndMail,
